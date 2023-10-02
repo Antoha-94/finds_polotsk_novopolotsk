@@ -4,3 +4,4 @@
 /app/config.ini
 /app/vendor/
 cron.log
+/app/index.php
